@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Mostrar los jugadores</title>
+    <title>Mostrar </title>
   </head>
   <body>
     <<?php
